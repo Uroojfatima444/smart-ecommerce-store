@@ -74,6 +74,4 @@ This project demonstrates:
 **Urooj Fatima**
 
 
----
 
-⭐ If you like this project, don't forget to star the repository.# smart-ecommerce-store
